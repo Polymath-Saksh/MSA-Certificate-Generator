@@ -1,4 +1,4 @@
-# MLSA-Certificate-Generator
+# MSA-Certificate-Generator
 
 This repo simply use a template certificate docx file and generates certificates in
 both docx and pdf.
